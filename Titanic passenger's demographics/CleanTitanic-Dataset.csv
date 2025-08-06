@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Family Size
+1,Dead,3,"Braund, Mr. Owen Harris",male,22,1,0,A/5 21171,$7.3,General,S,2
+2,Live,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,1,0,PC 17599,$71.3,C85,C,2
+3,Live,3,"Heikkinen, Miss. Laina",female,26,0,0,STON/O2. 3101282,$7.9,General,S,1
+4,Live,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,1,0,113803,$53.1,C123,S,2
+5,Dead,3,"Allen, Mr. William Henry",male,35,0,0,373450,$8.1,General,S,1
+6,Dead,3,"Moran, Mr. James",male,30,0,0,330877,$8.5,General,Q,1
+7,Dead,1,"McCarthy, Mr. Timothy J",male,54,0,0,17463,$51.9,E46,S,1
+8,Dead,3,"Palsson, Master. Gosta Leonard",male,2,3,1,349909,$21.1,General,S,5
+9,Live,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,0,2,347742,$11.1,General,S,3
+10,Live,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14,1,0,237736,$30.1,General,C,2
+11,Live,3,"Sandstrom, Miss. Marguerite Rut",female,4,1,1,PP 9549,$16.7,G6,S,3
+12,Live,1,"Bonnell, Miss. Elizabeth",female,58,0,0,113783,$26.6,C103,S,1
+13,Dead,3,"Saundercock, Mr. William Henry",male,20,0,0,A/5. 2151,$8.1,General,S,1
+14,Dead,3,"Andersson, Mr. Anders Johan",male,39,1,5,347082,$31.3,General,S,7
+15,Dead,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,14,0,0,350406,$7.9,General,S,1
+16,Live,2,"Hewlett, Mrs. (Mary D Kingcome) ",female,55,0,0,248706,$16.0,General,S,1
+17,Dead,3,"Rice, Master. Eugene",male,2,4,1,382652,$29.1,General,Q,6
+18,Live,2,"Williams, Mr. Charles Eugene",male,30,0,0,244373,$13.0,General,S,1
+19,Dead,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,1,0,345763,$18.0,General,S,2
+20,Live,3,"Masselmani, Mrs. Fatima",female,30,0,0,2649,$7.2,General,C,1
+21,Dead,2,"Fynney, Mr. Joseph J",male,35,0,0,239865,$26.0,General,S,1
+22,Live,2,"Beesley, Mr. Lawrence",male,34,0,0,248698,$13.0,D56,S,1
+23,Live,3,"McGowan, Miss. Anna ""Annie""",female,15,0,0,330923,$8.0,General,Q,1
+24,Live,1,"Sloper, Mr. William Thompson",male,28,0,0,113788,$35.5,A6,S,1
+25,Dead,3,"Palsson, Miss. Torborg Danira",female,8,3,1,349909,$21.1,General,S,5
+26,Live,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38,1,5,347077,$31.4,General,S,7
+27,Dead,3,"Emir, Mr. Farred Chehab",male,30,0,0,2631,$7.2,General,C,1
+28,Dead,1,"Fortune, Mr. Charles Alexander",male,19,3,2,19950,$263.0,C23 C25 C27,S,6
+29,Live,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,30,0,0,330959,$7.9,General,Q,1
+30,Dead,3,"Todoroff, Mr. Lalio",male,30,0,0,349216,$7.9,General,S,1
+31,Dead,1,"Uruchurtu, Don. Manuel E",male,40,0,0,PC 17601,$27.7,General,C,1
+32,Live,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,30,1,0,PC 17569,$146.5,B78,C,2
+33,Live,3,"Glynn, Miss. Mary Agatha",female,30,0,0,335677,$7.8,General,Q,1
+34,Dead,2,"Wheadon, Mr. Edward H",male,66,0,0,C.A. 24579,$10.5,General,S,1
+35,Dead,1,"Meyer, Mr. Edgar Joseph",male,28,1,0,PC 17604,$82.2,General,C,2
+36,Dead,1,"Holverson, Mr. Alexander Oskar",male,42,1,0,113789,$52.0,General,S,2
+37,Live,3,"Mamee, Mr. Hanna",male,30,0,0,2677,$7.2,General,C,1
+38,Dead,3,"Cann, Mr. Ernest Charles",male,21,0,0,A./5. 2152,$8.1,General,S,1
+39,Dead,3,"Vander Planke, Miss. Augusta Maria",female,18,2,0,345764,$18.0,General,S,3
+40,Live,3,"Nicola-Yarred, Miss. Jamila",female,14,1,0,2651,$11.2,General,C,2
+41,Dead,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40,1,0,7546,$9.5,General,S,2
+42,Dead,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27,1,0,11668,$21.0,General,S,2
+43,Dead,3,"Kraeff, Mr. Theodor",male,30,0,0,349253,$7.9,General,C,1
+44,Live,2,"Laroche, Miss. Simonne Marie Anne Andree",female,3,1,2,SC/Paris 2123,$41.6,General,C,4
+45,Live,3,"Devaney, Miss. Margaret Delia",female,19,0,0,330958,$7.9,General,Q,1
+46,Dead,3,"Rogers, Mr. William John",male,30,0,0,S.C./A.4. 23567,$8.1,General,S,1
+47,Dead,3,"Lennon, Mr. Denis",male,30,1,0,370371,$15.5,General,Q,2
+48,Live,3,"O'Driscoll, Miss. Bridget",female,30,0,0,14311,$7.8,General,Q,1
+49,Dead,3,"Samaan, Mr. Youssef",male,30,2,0,2662,$21.7,General,C,3
+50,Dead,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18,1,0,349237,$17.8,General,S,2
+51,Dead,3,"Panula, Master. Juha Niilo",male,7,4,1,3101295,$39.7,General,S,6
+52,Dead,3,"Nosworthy, Mr. Richard Cater",male,21,0,0,A/4. 39886,$7.8,General,S,1
+53,Live,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49,1,0,PC 17572,$76.7,D33,C,2
+54,Live,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29,1,0,2926,$26.0,General,S,2
+55,Dead,1,"Ostby, Mr. Engelhart Cornelius",male,65,0,1,113509,$62.0,B30,C,2
+56,Live,1,"Woolner, Mr. Hugh",male,30,0,0,19947,$35.5,C52,S,1
+57,Live,2,"Rugg, Miss. Emily",female,21,0,0,C.A. 31026,$10.5,General,S,1
+58,Dead,3,"Novel, Mr. Mansouer",male,29,0,0,2697,$7.2,General,C,1
+59,Live,2,"West, Miss. Constance Mirium",female,5,1,2,C.A. 34651,$27.8,General,S,4
+60,Dead,3,"Goodwin, Master. William Frederick",male,11,5,2,CA 2144,$46.9,General,S,8
+61,Dead,3,"Sirayanian, Mr. Orsen",male,22,0,0,2669,$7.2,General,C,1
+62,Live,1,"Icard, Miss. Amelie",female,38,0,0,113572,$80.0,B28,S,1
+63,Dead,1,"Harris, Mr. Henry Birkhardt",male,45,1,0,36973,$83.5,C83,S,2
+64,Dead,3,"Skoog, Master. Harald",male,4,3,2,347088,$27.9,General,S,6
+65,Dead,1,"Stewart, Mr. Albert A",male,30,0,0,PC 17605,$27.7,General,C,1
+66,Live,3,"Moubarek, Master. Gerios",male,30,1,1,2661,$15.2,General,C,3
+67,Live,2,"Nye, Mrs. (Elizabeth Ramell)",female,29,0,0,C.A. 29395,$10.5,F33,S,1
+68,Dead,3,"Crease, Mr. Ernest James",male,19,0,0,S.P. 3464,$8.2,General,S,1
+69,Live,3,"Andersson, Miss. Erna Alexandra",female,17,4,2,3101281,$7.9,General,S,7
+70,Dead,3,"Kink, Mr. Vincenz",male,26,2,0,315151,$8.7,General,S,3
+71,Dead,2,"Jenkin, Mr. Stephen Curnow",male,32,0,0,C.A. 33111,$10.5,General,S,1
+72,Dead,3,"Goodwin, Miss. Lillian Amy",female,16,5,2,CA 2144,$46.9,General,S,8
+73,Dead,2,"Hood, Mr. Ambrose Jr",male,21,0,0,S.O.C. 14879,$73.5,General,S,1
+74,Dead,3,"Chronopoulos, Mr. Apostolos",male,26,1,0,2680,$14.5,General,C,2
+75,Live,3,"Bing, Mr. Lee",male,32,0,0,1601,$56.5,General,S,1
+76,Dead,3,"Moen, Mr. Sigurd Hansen",male,25,0,0,348123,$7.7,F G73,S,1
+77,Dead,3,"Staneff, Mr. Ivan",male,30,0,0,349208,$7.9,General,S,1
+78,Dead,3,"Moutal, Mr. Rahamin Haim",male,30,0,0,374746,$8.1,General,S,1
+79,Live,2,"Caldwell, Master. Alden Gates",male,83,0,2,248738,$29.0,General,S,3
+80,Live,3,"Dowdell, Miss. Elizabeth",female,30,0,0,364516,$12.5,General,S,1
+81,Dead,3,"Waelens, Mr. Achille",male,22,0,0,345767,$9.0,General,S,1
+82,Live,3,"Sheerlinck, Mr. Jan Baptist",male,29,0,0,345779,$9.5,General,S,1
+83,Live,3,"McDermott, Miss. Brigdet Delia",female,30,0,0,330932,$7.8,General,Q,1
+84,Dead,1,"Carrau, Mr. Francisco M",male,28,0,0,113059,$47.1,General,S,1
+85,Live,2,"Ilett, Miss. Bertha",female,17,0,0,SO/C 14885,$10.5,General,S,1
+86,Live,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33,3,0,3101278,$15.9,General,S,4
+87,Dead,3,"Ford, Mr. William Neal",male,16,1,3,W./C. 6608,$34.4,General,S,5
+88,Dead,3,"Slocovski, Mr. Selman Francis",male,30,0,0,SOTON/OQ 392086,$8.1,General,S,1
+89,Live,1,"Fortune, Miss. Mabel Helen",female,23,3,2,19950,$263.0,C23 C25 C27,S,6
+90,Dead,3,"Celotti, Mr. Francesco",male,24,0,0,343275,$8.1,General,S,1
+91,Dead,3,"Christmann, Mr. Emil",male,29,0,0,343276,$8.1,General,S,1
+92,Dead,3,"Andreasson, Mr. Paul Edvin",male,20,0,0,347466,$7.9,General,S,1
+93,Dead,1,"Chaffee, Mr. Herbert Fuller",male,46,1,0,W.E.P. 5734,$61.2,E31,S,2
+94,Dead,3,"Dean, Mr. Bertram Frank",male,26,1,2,C.A. 2315,$20.6,General,S,4
+95,Dead,3,"Coxon, Mr. Daniel",male,59,0,0,364500,$7.3,General,S,1
+96,Dead,3,"Shorney, Mr. Charles Joseph",male,30,0,0,374910,$8.1,General,S,1
+97,Dead,1,"Goldschmidt, Mr. George B",male,71,0,0,PC 17754,$34.7,A5,C,1
+98,Live,1,"Greenfield, Mr. William Bertram",male,23,0,1,PC 17759,$63.4,D10 D12,C,2
+99,Live,2,"Doling, Mrs. John T (Ada Julia Bone)",female,34,0,1,231919,$23.0,General,S,2
+100,Dead,2,"Kantor, Mr. Sinai",male,34,1,0,244367,$26.0,General,S,2
+101,Dead,3,"Petranec, Miss. Matilda",female,28,0,0,349245,$7.9,General,S,1
+102,Dead,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,30,0,0,349215,$7.9,General,S,1
+103,Dead,1,"White, Mr. Richard Frasar",male,21,0,1,35281,$77.3,D26,S,2
+104,Dead,3,"Johansson, Mr. Gustaf Joel",male,33,0,0,7540,$8.7,General,S,1
+105,Dead,3,"Gustafsson, Mr. Anders Vilhelm",male,37,2,0,3101276,$7.9,General,S,3
+106,Dead,3,"Mionoff, Mr. Stoytcho",male,28,0,0,349207,$7.9,General,S,1
+107,Live,3,"Salkjelsvik, Miss. Anna Kristine",female,21,0,0,343120,$7.7,General,S,1
+108,Live,3,"Moss, Mr. Albert Johan",male,30,0,0,312991,$7.8,General,S,1
+109,Dead,3,"Rekic, Mr. Tido",male,38,0,0,349249,$7.9,General,S,1
+110,Live,3,"Moran, Miss. Bertha",female,30,1,0,371110,$24.2,General,Q,2
+111,Dead,1,"Porter, Mr. Walter Chamberlain",male,47,0,0,110465,$52.0,C110,S,1
+112,Dead,3,"Zabour, Miss. Hileni",female,15,1,0,2665,$14.5,General,C,2
+113,Dead,3,"Barton, Mr. David John",male,22,0,0,324669,$8.1,General,S,1
+114,Dead,3,"Jussila, Miss. Katriina",female,20,1,0,4136,$9.8,General,S,2
+115,Dead,3,"Attalah, Miss. Malake",female,17,0,0,2627,$14.5,General,C,1
+116,Dead,3,"Pekoniemi, Mr. Edvard",male,21,0,0,STON/O 2. 3101294,$7.9,General,S,1
+117,Dead,3,"Connors, Mr. Patrick",male,71,0,0,370369,$7.8,General,Q,1
+118,Dead,2,"Turpin, Mr. William John Robert",male,29,1,0,11668,$21.0,General,S,2
+119,Dead,1,"Baxter, Mr. Quigg Edmond",male,24,0,1,PC 17558,$247.5,B58 B60,C,2
+120,Dead,3,"Andersson, Miss. Ellis Anna Maria",female,2,4,2,347082,$31.3,General,S,7
+121,Dead,2,"Hickman, Mr. Stanley George",male,21,2,0,S.O.C. 14879,$73.5,General,S,3
+122,Dead,3,"Moore, Mr. Leonard Charles",male,30,0,0,A4. 54510,$8.1,General,S,1
+123,Dead,2,"Nasser, Mr. Nicholas",male,33,1,0,237736,$30.1,General,C,2
+124,Live,2,"Webber, Miss. Susan",female,33,0,0,27267,$13.0,E101,S,1
+125,Dead,1,"White, Mr. Percival Wayland",male,54,0,1,35281,$77.3,D26,S,2
+126,Live,3,"Nicola-Yarred, Master. Elias",male,12,1,0,2651,$11.2,General,C,2
+127,Dead,3,"McMahon, Mr. Martin",male,30,0,0,370372,$7.8,General,Q,1
+128,Live,3,"Madsen, Mr. Fridtjof Arne",male,24,0,0,C 17369,$7.1,General,S,1
+129,Live,3,"Peter, Miss. Anna",female,30,1,1,2668,$22.4,F E69,C,3
+130,Dead,3,"Ekstrom, Mr. Johan",male,45,0,0,347061,$7.0,General,S,1
+131,Dead,3,"Drazenoic, Mr. Jozef",male,33,0,0,349241,$7.9,General,C,1
+132,Dead,3,"Coelho, Mr. Domingos Fernandeo",male,20,0,0,SOTON/O.Q. 3101307,$7.1,General,S,1
+133,Dead,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47,1,0,A/5. 3337,$14.5,General,S,2
+134,Live,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29,1,0,228414,$26.0,General,S,2
+135,Dead,2,"Sobey, Mr. Samuel James Hayden",male,25,0,0,C.A. 29178,$13.0,General,S,1
+136,Dead,2,"Richard, Mr. Emile",male,23,0,0,SC/PARIS 2133,$15.0,General,C,1
+137,Live,1,"Newsom, Miss. Helen Monypeny",female,19,0,2,11752,$26.3,D47,S,3
+138,Dead,1,"Futrelle, Mr. Jacques Heath",male,37,1,0,113803,$53.1,C123,S,2
+139,Dead,3,"Osen, Mr. Olaf Elon",male,16,0,0,7534,$9.2,General,S,1
+140,Dead,1,"Giglio, Mr. Victor",male,24,0,0,PC 17593,$79.2,B86,C,1
+141,Dead,3,"Boulos, Mrs. Joseph (Sultana)",female,30,0,2,2678,$15.2,General,C,3
+142,Live,3,"Nysten, Miss. Anna Sofia",female,22,0,0,347081,$7.8,General,S,1
+143,Live,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24,1,0,STON/O2. 3101279,$15.9,General,S,2
+144,Dead,3,"Burke, Mr. Jeremiah",male,19,0,0,365222,$6.8,General,Q,1
+145,Dead,2,"Andrew, Mr. Edgardo Samuel",male,18,0,0,231945,$11.5,General,S,1
+146,Dead,2,"Nicholls, Mr. Joseph Charles",male,19,1,1,C.A. 33112,$36.8,General,S,3
+147,Live,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27,0,0,350043,$7.8,General,S,1
+148,Dead,3,"Ford, Miss. Robina Maggie ""Ruby""",female,9,2,2,W./C. 6608,$34.4,General,S,5
+149,Dead,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,37,0,2,230080,$26.0,F2,S,3
+150,Dead,2,"Byles, Rev. Thomas Roussel Davids",male,42,0,0,244310,$13.0,General,S,1
+151,Dead,2,"Bateman, Rev. Robert James",male,51,0,0,S.O.P. 1166,$12.5,General,S,1
+152,Live,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22,1,0,113776,$66.6,C2,S,2
+153,Dead,3,"Meo, Mr. Alfonzo",male,56,0,0,A.5. 11206,$8.1,General,S,1
+154,Dead,3,"van Billiard, Mr. Austin Blyler",male,41,0,2,A/5. 851,$14.5,General,S,3
+155,Dead,3,"Olsen, Mr. Ole Martin",male,30,0,0,Fa 265302,$7.3,General,S,1
+156,Dead,1,"Williams, Mr. Charles Duane",male,51,0,1,PC 17597,$61.4,General,C,2
+157,Live,3,"Gilnagh, Miss. Katherine ""Katie""",female,16,0,0,35851,$7.7,General,Q,1
+158,Dead,3,"Corn, Mr. Harry",male,30,0,0,SOTON/OQ 392090,$8.1,General,S,1
+159,Dead,3,"Smiljanic, Mr. Mile",male,30,0,0,315037,$8.7,General,S,1
+160,Dead,3,"Sage, Master. Thomas Henry",male,30,8,2,CA. 2343,$69.6,General,S,11
+161,Dead,3,"Cribb, Mr. John Hatfield",male,44,0,1,371362,$16.1,General,S,2
+162,Live,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40,0,0,C.A. 33595,$15.8,General,S,1
+163,Dead,3,"Bengtsson, Mr. John Viktor",male,26,0,0,347068,$7.8,General,S,1
+164,Dead,3,"Calic, Mr. Jovo",male,17,0,0,315093,$8.7,General,S,1
+165,Dead,3,"Panula, Master. Eino Viljami",male,1,4,1,3101295,$39.7,General,S,6
+166,Live,3,"Goldsmith, Master. Frank John William ""Frankie""",male,9,0,2,363291,$20.5,General,S,3
+167,Live,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,30,0,1,113505,$55.0,E33,S,2
+168,Dead,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45,1,4,347088,$27.9,General,S,6
+169,Dead,1,"Baumann, Mr. John D",male,30,0,0,PC 17318,$25.9,General,S,1
+170,Dead,3,"Ling, Mr. Lee",male,28,0,0,1601,$56.5,General,S,1
+171,Dead,1,"Van der hoef, Mr. Wyckoff",male,61,0,0,111240,$33.5,B19,S,1
+172,Dead,3,"Rice, Master. Arthur",male,4,4,1,382652,$29.1,General,Q,6
+173,Live,3,"Johnson, Miss. Eleanor Ileen",female,1,1,1,347742,$11.1,General,S,3
+174,Dead,3,"Sivola, Mr. Antti Wilhelm",male,21,0,0,STON/O 2. 3101280,$7.9,General,S,1
+175,Dead,1,"Smith, Mr. James Clinch",male,56,0,0,17764,$30.7,A7,C,1
+176,Dead,3,"Klasen, Mr. Klas Albin",male,18,1,1,350404,$7.9,General,S,3
+177,Dead,3,"Lefebre, Master. Henry Forbes",male,30,3,1,4133,$25.5,General,S,5
+178,Dead,1,"Isham, Miss. Ann Elizabeth",female,50,0,0,PC 17595,$28.7,C49,C,1
+179,Dead,2,"Hale, Mr. Reginald",male,30,0,0,250653,$13.0,General,S,1
+180,Dead,3,"Leonard, Mr. Lionel",male,36,0,0,LINE,$0.0,General,S,1
+181,Dead,3,"Sage, Miss. Constance Gladys",female,30,8,2,CA. 2343,$69.6,General,S,11
+182,Dead,2,"Pernot, Mr. Rene",male,30,0,0,SC/PARIS 2131,$15.1,General,C,1
+183,Dead,3,"Asplund, Master. Clarence Gustaf Hugo",male,9,4,2,347077,$31.4,General,S,7
+184,Live,2,"Becker, Master. Richard F",male,1,2,1,230136,$39.0,F4,S,4
+185,Live,3,"Kink-Heilmann, Miss. Luise Gretchen",female,4,0,2,315153,$22.0,General,S,3
+186,Dead,1,"Rood, Mr. Hugh Roscoe",male,30,0,0,113767,$50.0,A32,S,1
+187,Live,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,30,1,0,370365,$15.5,General,Q,2
+188,Live,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45,0,0,111428,$26.6,General,S,1
+189,Dead,3,"Bourke, Mr. John",male,40,1,1,364849,$15.5,General,Q,3
+190,Dead,3,"Turcin, Mr. Stjepan",male,36,0,0,349247,$7.9,General,S,1
+191,Live,2,"Pinsky, Mrs. (Rosa)",female,32,0,0,234604,$13.0,General,S,1
+192,Dead,2,"Carbines, Mr. William",male,19,0,0,28424,$13.0,General,S,1
+193,Live,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19,1,0,350046,$7.9,General,S,2
+194,Live,2,"Navratil, Master. Michel M",male,3,1,1,230080,$26.0,F2,S,3
+195,Live,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44,0,0,PC 17610,$27.7,B4,C,1
+196,Live,1,"Lurette, Miss. Elise",female,58,0,0,PC 17569,$146.5,B80,C,1
+197,Dead,3,"Mernagh, Mr. Robert",male,30,0,0,368703,$7.8,General,Q,1
+198,Dead,3,"Olsen, Mr. Karl Siegwart Andreas",male,42,0,1,4579,$8.4,General,S,2
+199,Live,3,"Madigan, Miss. Margaret ""Maggie""",female,30,0,0,370370,$7.8,General,Q,1
+200,Dead,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24,0,0,248747,$13.0,General,S,1
+201,Dead,3,"Vande Walle, Mr. Nestor Cyriel",male,28,0,0,345770,$9.5,General,S,1
+202,Dead,3,"Sage, Mr. Frederick",male,30,8,2,CA. 2343,$69.6,General,S,11
+203,Dead,3,"Johanson, Mr. Jakob Alfred",male,34,0,0,3101264,$6.5,General,S,1
+204,Dead,3,"Youseff, Mr. Gerious",male,46,0,0,2628,$7.2,General,C,1
+205,Live,3,"Cohen, Mr. Gurshon ""Gus""",male,18,0,0,A/5 3540,$8.1,General,S,1
+206,Dead,3,"Strom, Miss. Telma Matilda",female,2,0,1,347054,$10.5,G6,S,2
+207,Dead,3,"Backstrom, Mr. Karl Alfred",male,32,1,0,3101278,$15.9,General,S,2
+208,Live,3,"Albimona, Mr. Nassef Cassem",male,26,0,0,2699,$18.8,General,C,1
+209,Live,3,"Carr, Miss. Helen ""Ellen""",female,16,0,0,367231,$7.8,General,Q,1
+210,Live,1,"Blank, Mr. Henry",male,40,0,0,112277,$31.0,A31,C,1
+211,Dead,3,"Ali, Mr. Ahmed",male,24,0,0,SOTON/O.Q. 3101311,$7.1,General,S,1
+212,Live,2,"Cameron, Miss. Clear Annie",female,35,0,0,F.C.C. 13528,$21.0,General,S,1
+213,Dead,3,"Perkin, Mr. John Henry",male,22,0,0,A/5 21174,$7.3,General,S,1
+214,Dead,2,"Givard, Mr. Hans Kristensen",male,30,0,0,250646,$13.0,General,S,1
+215,Dead,3,"Kiernan, Mr. Philip",male,30,1,0,367229,$7.8,General,Q,2
+216,Live,1,"Newell, Miss. Madeleine",female,31,1,0,35273,$113.3,D36,C,2
+217,Live,3,"Honkanen, Miss. Eliina",female,27,0,0,STON/O2. 3101283,$7.9,General,S,1
+218,Dead,2,"Jacobsohn, Mr. Sidney Samuel",male,42,1,0,243847,$27.0,General,S,2
+219,Live,1,"Bazzani, Miss. Albina",female,32,0,0,11813,$76.3,D15,C,1
+220,Dead,2,"Harris, Mr. Walter",male,30,0,0,W/C 14208,$10.5,General,S,1
+221,Live,3,"Sunderland, Mr. Victor Francis",male,16,0,0,SOTON/OQ 392089,$8.1,General,S,1
+222,Dead,2,"Bracken, Mr. James H",male,27,0,0,220367,$13.0,General,S,1
+223,Dead,3,"Green, Mr. George Henry",male,51,0,0,21440,$8.1,General,S,1
+224,Dead,3,"Nenkoff, Mr. Christo",male,30,0,0,349234,$7.9,General,S,1
+225,Live,1,"Hoyt, Mr. Frederick Maxfield",male,38,1,0,19943,$90.0,C93,S,2
+226,Dead,3,"Berglund, Mr. Karl Ivar Sven",male,22,0,0,PP 4348,$9.4,General,S,1
+227,Live,2,"Mellors, Mr. William John",male,19,0,0,SW/PP 751,$10.5,General,S,1
+228,Dead,3,"Lovell, Mr. John Hall (""Henry"")",male,21,0,0,A/5 21173,$7.3,General,S,1
+229,Dead,2,"Fahlstrom, Mr. Arne Jonas",male,18,0,0,236171,$13.0,General,S,1
+230,Dead,3,"Lefebre, Miss. Mathilde",female,30,3,1,4133,$25.5,General,S,5
+231,Live,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35,1,0,36973,$83.5,C83,S,2
+232,Dead,3,"Larsson, Mr. Bengt Edvin",male,29,0,0,347067,$7.8,General,S,1
+233,Dead,2,"Sjostedt, Mr. Ernst Adolf",male,59,0,0,237442,$13.5,General,S,1
+234,Live,3,"Asplund, Miss. Lillian Gertrud",female,5,4,2,347077,$31.4,General,S,7
+235,Dead,2,"Leyson, Mr. Robert William Norman",male,24,0,0,C.A. 29566,$10.5,General,S,1
+236,Dead,3,"Harknett, Miss. Alice Phoebe",female,30,0,0,W./C. 6609,$7.6,General,S,1
+237,Dead,2,"Hold, Mr. Stephen",male,44,1,0,26707,$26.0,General,S,2
+238,Live,2,"Collyer, Miss. Marjorie ""Lottie""",female,8,0,2,C.A. 31921,$26.3,General,S,3
+239,Dead,2,"Pengelly, Mr. Frederick William",male,19,0,0,28665,$10.5,General,S,1
+240,Dead,2,"Hunt, Mr. George Henry",male,33,0,0,SCO/W 1585,$12.3,General,S,1
+241,Dead,3,"Zabour, Miss. Thamine",female,30,1,0,2665,$14.5,General,C,2
+242,Live,3,"Murphy, Miss. Katherine ""Kate""",female,30,1,0,367230,$15.5,General,Q,2
+243,Dead,2,"Coleridge, Mr. Reginald Charles",male,29,0,0,W./C. 14263,$10.5,General,S,1
+244,Dead,3,"Maenpaa, Mr. Matti Alexanteri",male,22,0,0,STON/O 2. 3101275,$7.1,General,S,1
+245,Dead,3,"Attalah, Mr. Sleiman",male,30,0,0,2694,$7.2,General,C,1
+246,Dead,1,"Minahan, Dr. William Edward",male,44,2,0,19928,$90.0,C78,Q,3
+247,Dead,3,"Lindahl, Miss. Agda Thorilda Viktoria",female,25,0,0,347071,$7.8,General,S,1
+248,Live,2,"Hamalainen, Mrs. William (Anna)",female,24,0,2,250649,$14.5,General,S,3
+249,Live,1,"Beckwith, Mr. Richard Leonard",male,37,1,1,11751,$52.6,D35,S,3
+250,Dead,2,"Carter, Rev. Ernest Courtenay",male,54,1,0,244252,$26.0,General,S,2
+251,Dead,3,"Reed, Mr. James George",male,30,0,0,362316,$7.3,General,S,1
+252,Dead,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29,1,1,347054,$10.5,G6,S,3
+253,Dead,1,"Stead, Mr. William Thomas",male,62,0,0,113514,$26.6,C87,S,1
+254,Dead,3,"Lobb, Mr. William Arthur",male,30,1,0,A/5. 3336,$16.1,General,S,2
+255,Dead,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41,0,2,370129,$20.2,General,S,3
+256,Live,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29,0,2,2650,$15.2,General,C,3
+257,Live,1,"Thorne, Mrs. Gertrude Maybelle",female,30,0,0,PC 17585,$79.2,General,C,1
+258,Live,1,"Cherry, Miss. Gladys",female,30,0,0,110152,$86.5,B77,S,1
+259,Live,1,"Ward, Miss. Anna",female,35,0,0,PC 17755,$512.3,General,C,1
+260,Live,2,"Parrish, Mrs. (Lutie Davis)",female,50,0,1,230433,$26.0,General,S,2
+261,Dead,3,"Smith, Mr. Thomas",male,30,0,0,384461,$7.8,General,Q,1
+262,Live,3,"Asplund, Master. Edvin Rojj Felix",male,3,4,2,347077,$31.4,General,S,7
+263,Dead,1,"Taussig, Mr. Emil",male,52,1,1,110413,$79.7,E67,S,3
+264,Dead,1,"Harrison, Mr. William",male,40,0,0,112059,$0.0,B94,S,1
+265,Dead,3,"Henry, Miss. Delia",female,30,0,0,382649,$7.8,General,Q,1
+266,Dead,2,"Reeves, Mr. David",male,36,0,0,C.A. 17248,$10.5,General,S,1
+267,Dead,3,"Panula, Mr. Ernesti Arvid",male,16,4,1,3101295,$39.7,General,S,6
+268,Live,3,"Persson, Mr. Ernst Ulrik",male,25,1,0,347083,$7.8,General,S,2
+269,Live,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58,0,1,PC 17582,$153.5,C125,S,2
+270,Live,1,"Bissette, Miss. Amelia",female,35,0,0,PC 17760,$135.6,C99,S,1
+271,Dead,1,"Cairns, Mr. Alexander",male,30,0,0,113798,$31.0,General,S,1
+272,Live,3,"Tornquist, Mr. William Henry",male,25,0,0,LINE,$0.0,General,S,1
+273,Live,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41,0,1,250644,$19.5,General,S,2
+274,Dead,1,"Natsch, Mr. Charles H",male,37,0,1,PC 17596,$29.7,C118,C,2
+275,Live,3,"Healy, Miss. Hanora ""Nora""",female,30,0,0,370375,$7.8,General,Q,1
+276,Live,1,"Andrews, Miss. Kornelia Theodosia",female,63,1,0,13502,$78.0,D7,S,2
+277,Dead,3,"Lindblom, Miss. Augusta Charlotta",female,45,0,0,347073,$7.8,General,S,1
+278,Dead,2,"Parkes, Mr. Francis ""Frank""",male,30,0,0,239853,$0.0,General,S,1
+279,Dead,3,"Rice, Master. Eric",male,7,4,1,382652,$29.1,General,Q,6
+280,Live,3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35,1,1,C.A. 2673,$20.3,General,S,3
+281,Dead,3,"Duane, Mr. Frank",male,65,0,0,336439,$7.8,General,Q,1
+282,Dead,3,"Olsson, Mr. Nils Johan Goransson",male,28,0,0,347464,$7.9,General,S,1
+283,Dead,3,"de Pelsmaeker, Mr. Alfons",male,16,0,0,345778,$9.5,General,S,1
+284,Live,3,"Dorking, Mr. Edward Arthur",male,19,0,0,A/5. 10482,$8.1,General,S,1
+285,Dead,1,"Smith, Mr. Richard William",male,30,0,0,113056,$26.0,A19,S,1
+286,Dead,3,"Stankovic, Mr. Ivan",male,33,0,0,349239,$8.7,General,C,1
+287,Live,3,"de Mulder, Mr. Theodore",male,30,0,0,345774,$9.5,General,S,1
+288,Dead,3,"Naidenoff, Mr. Penko",male,22,0,0,349206,$7.9,General,S,1
+289,Live,2,"Hosono, Mr. Masabumi",male,42,0,0,237798,$13.0,General,S,1
+290,Live,3,"Connolly, Miss. Kate",female,22,0,0,370373,$7.8,General,Q,1
+291,Live,1,"Barber, Miss. Ellen ""Nellie""",female,26,0,0,19877,$78.9,General,S,1
+292,Live,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19,1,0,11967,$91.1,B49,C,2
+293,Dead,2,"Levy, Mr. Rene Jacques",male,36,0,0,SC/Paris 2163,$12.9,D,C,1
+294,Dead,3,"Haas, Miss. Aloisia",female,24,0,0,349236,$8.9,General,S,1
+295,Dead,3,"Mineff, Mr. Ivan",male,24,0,0,349233,$7.9,General,S,1
+296,Dead,1,"Lewy, Mr. Ervin G",male,30,0,0,PC 17612,$27.7,General,C,1
+297,Dead,3,"Hanna, Mr. Mansour",male,24,0,0,2693,$7.2,General,C,1
+298,Dead,1,"Allison, Miss. Helen Loraine",female,2,1,2,113781,$151.6,C22 C26,S,4
+299,Live,1,"Saalfeld, Mr. Adolphe",male,30,0,0,19988,$30.5,C106,S,1
+300,Live,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50,0,1,PC 17558,$247.5,B58 B60,C,2
+301,Live,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,30,0,0,9234,$7.8,General,Q,1
+302,Live,3,"McCoy, Mr. Bernard",male,30,2,0,367226,$23.3,General,Q,3
+303,Dead,3,"Johnson, Mr. William Cahoone Jr",male,19,0,0,LINE,$0.0,General,S,1
+304,Live,2,"Keane, Miss. Nora A",female,30,0,0,226593,$12.4,E101,Q,1
+305,Dead,3,"Williams, Mr. Howard Hugh ""Harry""",male,30,0,0,A/5 2466,$8.1,General,S,1
+306,Live,1,"Allison, Master. Hudson Trevor",male,92,1,2,113781,$151.6,C22 C26,S,4
+307,Live,1,"Fleming, Miss. Margaret",female,30,0,0,17421,$110.9,General,C,1
+308,Live,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17,1,0,PC 17758,$108.9,C65,C,2
+309,Dead,2,"Abelson, Mr. Samuel",male,30,1,0,P/PP 3381,$24.0,General,C,2
+310,Live,1,"Francatelli, Miss. Laura Mabel",female,30,0,0,PC 17485,$56.9,E36,C,1
+311,Live,1,"Hays, Miss. Margaret Bechstein",female,24,0,0,11767,$83.2,C54,C,1
+312,Live,1,"Ryerson, Miss. Emily Borie",female,18,2,2,PC 17608,$262.4,B57 B59 B63 B66,C,5
+313,Dead,2,"Lahtinen, Mrs. William (Anna Sylfven)",female,26,1,1,250651,$26.0,General,S,3
+314,Dead,3,"Hendekovic, Mr. Ignjac",male,28,0,0,349243,$7.9,General,S,1
+315,Dead,2,"Hart, Mr. Benjamin",male,43,1,1,F.C.C. 13529,$26.3,General,S,3
+316,Live,3,"Nilsson, Miss. Helmina Josefina",female,26,0,0,347470,$7.9,General,S,1
+317,Live,2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24,1,0,244367,$26.0,General,S,2
+318,Dead,2,"Moraweck, Dr. Ernest",male,54,0,0,29011,$14.0,General,S,1
+319,Live,1,"Wick, Miss. Mary Natalie",female,31,0,2,36928,$164.9,C7,S,3
+320,Live,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40,1,1,16966,$134.5,E34,C,3
+321,Dead,3,"Dennis, Mr. Samuel",male,22,0,0,A/5 21172,$7.3,General,S,1
+322,Dead,3,"Danoff, Mr. Yoto",male,27,0,0,349219,$7.9,General,S,1
+323,Live,2,"Slayter, Miss. Hilda Mary",female,30,0,0,234818,$12.4,General,Q,1
+324,Live,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22,1,1,248738,$29.0,General,S,3
+325,Dead,3,"Sage, Mr. George John Jr",male,30,8,2,CA. 2343,$69.6,General,S,11
+326,Live,1,"Young, Miss. Marie Grice",female,36,0,0,PC 17760,$135.6,C32,C,1
+327,Dead,3,"Nysveen, Mr. Johan Hansen",male,61,0,0,345364,$6.2,General,S,1
+328,Live,2,"Ball, Mrs. (Ada E Hall)",female,36,0,0,28551,$13.0,D,S,1
+329,Live,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31,1,1,363291,$20.5,General,S,3
+330,Live,1,"Hippach, Miss. Jean Gertrude",female,16,0,1,111361,$58.0,B18,C,2
+331,Live,3,"McCoy, Miss. Agnes",female,30,2,0,367226,$23.3,General,Q,3
+332,Dead,1,"Partner, Mr. Austen",male,46,0,0,113043,$28.5,C124,S,1
+333,Dead,1,"Graham, Mr. George Edward",male,38,0,1,PC 17582,$153.5,C91,S,2
+334,Dead,3,"Vander Planke, Mr. Leo Edmondus",male,16,2,0,345764,$18.0,General,S,3
+335,Live,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,30,1,0,PC 17611,$133.7,General,S,2
+336,Dead,3,"Denkoff, Mr. Mitto",male,30,0,0,349225,$7.9,General,S,1
+337,Dead,1,"Pears, Mr. Thomas Clinton",male,29,1,0,113776,$66.6,C2,S,2
+338,Live,1,"Burns, Miss. Elizabeth Margaret",female,41,0,0,16966,$134.5,E40,C,1
+339,Live,3,"Dahl, Mr. Karl Edwart",male,45,0,0,7598,$8.1,General,S,1
+340,Dead,1,"Blackwell, Mr. Stephen Weart",male,45,0,0,113784,$35.5,T,S,1
+341,Live,2,"Navratil, Master. Edmond Roger",male,2,1,1,230080,$26.0,F2,S,3
+342,Live,1,"Fortune, Miss. Alice Elizabeth",female,24,3,2,19950,$263.0,C23 C25 C27,S,6
+343,Dead,2,"Collander, Mr. Erik Gustaf",male,28,0,0,248740,$13.0,General,S,1
+344,Dead,2,"Sedgwick, Mr. Charles Frederick Waddington",male,25,0,0,244361,$13.0,General,S,1
+345,Dead,2,"Fox, Mr. Stanley Hubert",male,36,0,0,229236,$13.0,General,S,1
+346,Live,2,"Brown, Miss. Amelia ""Mildred""",female,24,0,0,248733,$13.0,F33,S,1
+347,Live,2,"Smith, Miss. Marion Elsie",female,40,0,0,31418,$13.0,General,S,1
+348,Live,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,30,1,0,386525,$16.1,General,S,2
+349,Live,3,"Coutts, Master. William Loch ""William""",male,3,1,1,C.A. 37671,$15.9,General,S,3
+350,Dead,3,"Dimic, Mr. Jovan",male,42,0,0,315088,$8.7,General,S,1
+351,Dead,3,"Odahl, Mr. Nils Martin",male,23,0,0,7267,$9.2,General,S,1
+352,Dead,1,"Williams-Lambert, Mr. Fletcher Fellows",male,30,0,0,113510,$35.0,C128,S,1
+353,Dead,3,"Elias, Mr. Tannous",male,15,1,1,2695,$7.2,General,C,3
+354,Dead,3,"Arnold-Franchi, Mr. Josef",male,25,1,0,349237,$17.8,General,S,2
+355,Dead,3,"Yousif, Mr. Wazli",male,30,0,0,2647,$7.2,General,C,1
+356,Dead,3,"Vanden Steen, Mr. Leo Peter",male,28,0,0,345783,$9.5,General,S,1
+357,Live,1,"Bowerman, Miss. Elsie Edith",female,22,0,1,113505,$55.0,E33,S,2
+358,Dead,2,"Funk, Miss. Annie Clemmer",female,38,0,0,237671,$13.0,General,S,1
+359,Live,3,"McGovern, Miss. Mary",female,30,0,0,330931,$7.9,General,Q,1
+360,Live,3,"Mockler, Miss. Helen Mary ""Ellie""",female,30,0,0,330980,$7.9,General,Q,1
+361,Dead,3,"Skoog, Mr. Wilhelm",male,40,1,4,347088,$27.9,General,S,6
+362,Dead,2,"del Carlo, Mr. Sebastiano",male,29,1,0,SC/PARIS 2167,$27.7,General,C,2
+363,Dead,3,"Barbara, Mrs. (Catherine David)",female,45,0,1,2691,$14.5,General,C,2
+364,Dead,3,"Asim, Mr. Adola",male,35,0,0,SOTON/O.Q. 3101310,$7.1,General,S,1
+365,Dead,3,"O'Brien, Mr. Thomas",male,30,1,0,370365,$15.5,General,Q,2
+366,Dead,3,"Adahl, Mr. Mauritz Nils Martin",male,30,0,0,C 7076,$7.3,General,S,1
+367,Live,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60,1,0,110813,$75.3,D37,C,2
+368,Live,3,"Moussa, Mrs. (Mantoura Boulos)",female,30,0,0,2626,$7.2,General,C,1
+369,Live,3,"Jermyn, Miss. Annie",female,30,0,0,14313,$7.8,General,Q,1
+370,Live,1,"Aubart, Mme. Leontine Pauline",female,24,0,0,PC 17477,$69.3,B35,C,1
+371,Live,1,"Harder, Mr. George Achilles",male,25,1,0,11765,$55.4,E50,C,2
+372,Dead,3,"Wiklund, Mr. Jakob Alfred",male,18,1,0,3101267,$6.5,General,S,2
+373,Dead,3,"Beavan, Mr. William Thomas",male,19,0,0,323951,$8.1,General,S,1
+374,Dead,1,"Ringhini, Mr. Sante",male,22,0,0,PC 17760,$135.6,General,C,1
+375,Dead,3,"Palsson, Miss. Stina Viola",female,3,3,1,349909,$21.1,General,S,5
+376,Live,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,30,1,0,PC 17604,$82.2,General,C,2
+377,Live,3,"Landergren, Miss. Aurora Adelia",female,22,0,0,C 7077,$7.3,General,S,1
+378,Dead,1,"Widener, Mr. Harry Elkins",male,27,0,2,113503,$211.5,C82,C,3
+379,Dead,3,"Betros, Mr. Tannous",male,20,0,0,2648,$4.0,General,C,1
+380,Dead,3,"Gustafsson, Mr. Karl Gideon",male,19,0,0,347069,$7.8,General,S,1
+381,Live,1,"Bidois, Miss. Rosalie",female,42,0,0,PC 17757,$227.5,General,C,1
+382,Live,3,"Nakid, Miss. Maria (""Mary"")",female,1,0,2,2653,$15.7,General,C,3
+383,Dead,3,"Tikkanen, Mr. Juho",male,32,0,0,STON/O 2. 3101293,$7.9,General,S,1
+384,Live,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35,1,0,113789,$52.0,General,S,2
+385,Dead,3,"Plotcharsky, Mr. Vasil",male,30,0,0,349227,$7.9,General,S,1
+386,Dead,2,"Davies, Mr. Charles Henry",male,18,0,0,S.O.C. 14879,$73.5,General,S,1
+387,Dead,3,"Goodwin, Master. Sidney Leonard",male,1,5,2,CA 2144,$46.9,General,S,8
+388,Live,2,"Buss, Miss. Kate",female,36,0,0,27849,$13.0,General,S,1
+389,Dead,3,"Sadlier, Mr. Matthew",male,30,0,0,367655,$7.7,General,Q,1
+390,Live,2,"Lehmann, Miss. Bertha",female,17,0,0,SC 1748,$12.0,General,C,1
+391,Live,1,"Carter, Mr. William Ernest",male,36,1,2,113760,$120.0,B96 B98,S,4
+392,Live,3,"Jansson, Mr. Carl Olof",male,21,0,0,350034,$7.8,General,S,1
+393,Dead,3,"Gustafsson, Mr. Johan Birger",male,28,2,0,3101277,$7.9,General,S,3
+394,Live,1,"Newell, Miss. Marjorie",female,23,1,0,35273,$113.3,D36,C,2
+395,Live,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24,0,2,PP 9549,$16.7,G6,S,3
+396,Dead,3,"Johansson, Mr. Erik",male,22,0,0,350052,$7.8,General,S,1
+397,Dead,3,"Olsson, Miss. Elina",female,31,0,0,350407,$7.9,General,S,1
+398,Dead,2,"McKane, Mr. Peter David",male,46,0,0,28403,$26.0,General,S,1
+399,Dead,2,"Pain, Dr. Alfred",male,23,0,0,244278,$10.5,General,S,1
+400,Live,2,"Trout, Mrs. William H (Jessie L)",female,28,0,0,240929,$12.7,General,S,1
+401,Live,3,"Niskanen, Mr. Juha",male,39,0,0,STON/O 2. 3101289,$7.9,General,S,1
+402,Dead,3,"Adams, Mr. John",male,26,0,0,341826,$8.1,General,S,1
+403,Dead,3,"Jussila, Miss. Mari Aina",female,21,1,0,4137,$9.8,General,S,2
+404,Dead,3,"Hakkarainen, Mr. Pekka Pietari",male,28,1,0,STON/O2. 3101279,$15.9,General,S,2
+405,Dead,3,"Oreskovic, Miss. Marija",female,20,0,0,315096,$8.7,General,S,1
+406,Dead,2,"Gale, Mr. Shadrach",male,34,1,0,28664,$21.0,General,S,2
+407,Dead,3,"Widegren, Mr. Carl/Charles Peter",male,51,0,0,347064,$7.8,General,S,1
+408,Live,2,"Richards, Master. William Rowe",male,3,1,1,29106,$18.8,General,S,3
+409,Dead,3,"Birkeland, Mr. Hans Martin Monsen",male,21,0,0,312992,$7.8,General,S,1
+410,Dead,3,"Lefebre, Miss. Ida",female,30,3,1,4133,$25.5,General,S,5
+411,Dead,3,"Sdycoff, Mr. Todor",male,30,0,0,349222,$7.9,General,S,1
+412,Dead,3,"Hart, Mr. Henry",male,30,0,0,394140,$6.9,General,Q,1
+413,Live,1,"Minahan, Miss. Daisy E",female,33,1,0,19928,$90.0,C78,Q,2
+414,Dead,2,"Cunningham, Mr. Alfred Fleming",male,30,0,0,239853,$0.0,General,S,1
+415,Live,3,"Sundman, Mr. Johan Julian",male,44,0,0,STON/O 2. 3101269,$7.9,General,S,1
+416,Dead,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,30,0,0,343095,$8.1,General,S,1
+417,Live,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34,1,1,28220,$32.5,General,S,3
+418,Live,2,"Silven, Miss. Lyyli Karoliina",female,18,0,2,250652,$13.0,General,S,3
+419,Dead,2,"Matthews, Mr. William John",male,30,0,0,28228,$13.0,General,S,1
+420,Dead,3,"Van Impe, Miss. Catharina",female,10,0,2,345773,$24.2,General,S,3
+421,Dead,3,"Gheorgheff, Mr. Stanio",male,30,0,0,349254,$7.9,General,C,1
+422,Dead,3,"Charters, Mr. David",male,21,0,0,A/5. 13032,$7.7,General,Q,1
+423,Dead,3,"Zimmerman, Mr. Leo",male,29,0,0,315082,$7.9,General,S,1
+424,Dead,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28,1,1,347080,$14.4,General,S,3
+425,Dead,3,"Rosblom, Mr. Viktor Richard",male,18,1,1,370129,$20.2,General,S,3
+426,Dead,3,"Wiseman, Mr. Phillippe",male,30,0,0,A/4. 34244,$7.3,General,S,1
+427,Live,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28,1,0,2003,$26.0,General,S,2
+428,Live,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19,0,0,250655,$26.0,General,S,1
+429,Dead,3,"Flynn, Mr. James",male,30,0,0,364851,$7.8,General,Q,1
+430,Live,3,"Pickard, Mr. Berk (Berk Trembisky)",male,32,0,0,SOTON/O.Q. 392078,$8.1,E10,S,1
+431,Live,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28,0,0,110564,$26.6,C52,S,1
+432,Live,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,30,1,0,376564,$16.1,General,S,2
+433,Live,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42,1,0,SC/AH 3085,$26.0,General,S,2
+434,Dead,3,"Kallio, Mr. Nikolai Erland",male,17,0,0,STON/O 2. 3101274,$7.1,General,S,1
+435,Dead,1,"Silvey, Mr. William Baird",male,50,1,0,13507,$55.9,E44,S,2
+436,Live,1,"Carter, Miss. Lucile Polk",female,14,1,2,113760,$120.0,B96 B98,S,4
+437,Dead,3,"Ford, Miss. Doolina Margaret ""Daisy""",female,21,2,2,W./C. 6608,$34.4,General,S,5
+438,Live,2,"Richards, Mrs. Sidney (Emily Hocking)",female,24,2,3,29106,$18.8,General,S,6
+439,Dead,1,"Fortune, Mr. Mark",male,64,1,4,19950,$263.0,C23 C25 C27,S,6
+440,Dead,2,"Kvillner, Mr. Johan Henrik Johannesson",male,31,0,0,C.A. 18723,$10.5,General,S,1
+441,Live,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45,1,1,F.C.C. 13529,$26.3,General,S,3
+442,Dead,3,"Hampe, Mr. Leon",male,20,0,0,345769,$9.5,General,S,1
+443,Dead,3,"Petterson, Mr. Johan Emil",male,25,1,0,347076,$7.8,General,S,2
+444,Live,2,"Reynaldo, Ms. Encarnacion",female,28,0,0,230434,$13.0,General,S,1
+445,Live,3,"Johannesen-Bratthammer, Mr. Bernt",male,30,0,0,65306,$8.1,General,S,1
+446,Live,1,"Dodge, Master. Washington",male,4,0,2,33638,$81.9,A34,S,3
+447,Live,2,"Mellinger, Miss. Madeleine Violet",female,13,0,1,250644,$19.5,General,S,2
+448,Live,1,"Seward, Mr. Frederic Kimber",male,34,0,0,113794,$26.6,General,S,1
+449,Live,3,"Baclini, Miss. Marie Catherine",female,5,2,1,2666,$19.3,General,C,4
+450,Live,1,"Peuchen, Major. Arthur Godfrey",male,52,0,0,113786,$30.5,C104,S,1
+451,Dead,2,"West, Mr. Edwy Arthur",male,36,1,2,C.A. 34651,$27.8,General,S,4
+452,Dead,3,"Hagland, Mr. Ingvald Olai Olsen",male,30,1,0,65303,$20.0,General,S,2
+453,Dead,1,"Foreman, Mr. Benjamin Laventall",male,30,0,0,113051,$27.8,C111,C,1
+454,Live,1,"Goldenberg, Mr. Samuel L",male,49,1,0,17453,$89.1,C92,C,2
+455,Dead,3,"Peduzzi, Mr. Joseph",male,30,0,0,A/5 2817,$8.1,General,S,1
+456,Live,3,"Jalsevac, Mr. Ivan",male,29,0,0,349240,$7.9,General,C,1
+457,Dead,1,"Millet, Mr. Francis Davis",male,65,0,0,13509,$26.6,E38,S,1
+458,Live,1,"Kenyon, Mrs. Frederick R (Marion)",female,30,1,0,17464,$51.9,D21,S,2
+459,Live,2,"Toomey, Miss. Ellen",female,50,0,0,F.C.C. 13531,$10.5,General,S,1
+460,Dead,3,"O'Connor, Mr. Maurice",male,30,0,0,371060,$7.8,General,Q,1
+461,Live,1,"Anderson, Mr. Harry",male,48,0,0,19952,$26.6,E12,S,1
+462,Dead,3,"Morley, Mr. William",male,34,0,0,364506,$8.1,General,S,1
+463,Dead,1,"Gee, Mr. Arthur H",male,47,0,0,111320,$38.5,E63,S,1
+464,Dead,2,"Milling, Mr. Jacob Christian",male,48,0,0,234360,$13.0,General,S,1
+465,Dead,3,"Maisner, Mr. Simon",male,30,0,0,A/S 2816,$8.1,General,S,1
+466,Dead,3,"Goncalves, Mr. Manuel Estanslas",male,38,0,0,SOTON/O.Q. 3101306,$7.1,General,S,1
+467,Dead,2,"Campbell, Mr. William",male,30,0,0,239853,$0.0,General,S,1
+468,Dead,1,"Smart, Mr. John Montgomery",male,56,0,0,113792,$26.6,General,S,1
+469,Dead,3,"Scanlan, Mr. James",male,30,0,0,36209,$7.7,General,Q,1
+470,Live,3,"Baclini, Miss. Helene Barbara",female,75,2,1,2666,$19.3,General,C,4
+471,Dead,3,"Keefe, Mr. Arthur",male,30,0,0,323592,$7.3,General,S,1
+472,Dead,3,"Cacic, Mr. Luka",male,38,0,0,315089,$8.7,General,S,1
+473,Live,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33,1,2,C.A. 34651,$27.8,General,S,4
+474,Live,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23,0,0,SC/AH Basle 541,$13.8,D,C,1
+475,Dead,3,"Strandberg, Miss. Ida Sofia",female,22,0,0,7553,$9.8,General,S,1
+476,Dead,1,"Clifford, Mr. George Quincy",male,30,0,0,110465,$52.0,A14,S,1
+477,Dead,2,"Renouf, Mr. Peter Henry",male,34,1,0,31027,$21.0,General,S,2
+478,Dead,3,"Braund, Mr. Lewis Richard",male,29,1,0,3460,$7.0,General,S,2
+479,Dead,3,"Karlsson, Mr. Nils August",male,22,0,0,350060,$7.5,General,S,1
+480,Live,3,"Hirvonen, Miss. Hildur E",female,2,0,1,3101298,$12.3,General,S,2
+481,Dead,3,"Goodwin, Master. Harold Victor",male,9,5,2,CA 2144,$46.9,General,S,8
+482,Dead,2,"Frost, Mr. Anthony Wood ""Archie""",male,30,0,0,239854,$0.0,General,S,1
+483,Dead,3,"Rouse, Mr. Richard Henry",male,50,0,0,A/5 3594,$8.1,General,S,1
+484,Live,3,"Turkula, Mrs. (Hedwig)",female,63,0,0,4134,$9.6,General,S,1
+485,Live,1,"Bishop, Mr. Dickinson H",male,25,1,0,11967,$91.1,B49,C,2
+486,Dead,3,"Lefebre, Miss. Jeannie",female,30,3,1,4133,$25.5,General,S,5
+487,Live,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35,1,0,19943,$90.0,C93,S,2
+488,Dead,1,"Kent, Mr. Edward Austin",male,58,0,0,11771,$29.7,B37,C,1
+489,Dead,3,"Somerton, Mr. Francis William",male,30,0,0,A.5. 18509,$8.1,General,S,1
+490,Live,3,"Coutts, Master. Eden Leslie ""Neville""",male,9,1,1,C.A. 37671,$15.9,General,S,3
+491,Dead,3,"Hagland, Mr. Konrad Mathias Reiersen",male,30,1,0,65304,$20.0,General,S,2
+492,Dead,3,"Windelov, Mr. Einar",male,21,0,0,SOTON/OQ 3101317,$7.3,General,S,1
+493,Dead,1,"Molson, Mr. Harry Markland",male,55,0,0,113787,$30.5,C30,S,1
+494,Dead,1,"Artagaveytia, Mr. Ramon",male,71,0,0,PC 17609,$49.5,General,C,1
+495,Dead,3,"Stanley, Mr. Edward Roland",male,21,0,0,A/4 45380,$8.1,General,S,1
+496,Dead,3,"Yousseff, Mr. Gerious",male,30,0,0,2627,$14.5,General,C,1
+497,Live,1,"Eustis, Miss. Elizabeth Mussey",female,54,1,0,36947,$78.3,D20,C,2
+498,Dead,3,"Shellard, Mr. Frederick William",male,30,0,0,C.A. 6212,$15.1,General,S,1
+499,Dead,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25,1,2,113781,$151.6,C22 C26,S,4
+500,Dead,3,"Svensson, Mr. Olof",male,24,0,0,350035,$7.8,General,S,1
+501,Dead,3,"Calic, Mr. Petar",male,17,0,0,315086,$8.7,General,S,1
+502,Dead,3,"Canavan, Miss. Mary",female,21,0,0,364846,$7.8,General,Q,1
+503,Dead,3,"O'Sullivan, Miss. Bridget Mary",female,30,0,0,330909,$7.6,General,Q,1
+504,Dead,3,"Laitinen, Miss. Kristina Sofia",female,37,0,0,4135,$9.6,General,S,1
+505,Live,1,"Maioni, Miss. Roberta",female,16,0,0,110152,$86.5,B79,S,1
+506,Dead,1,"Penasco y Castellana, Mr. Victor de Satode",male,18,1,0,PC 17758,$108.9,C65,C,2
+507,Live,2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33,0,2,26360,$26.0,General,S,3
+508,Live,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,30,0,0,111427,$26.6,General,S,1
+509,Dead,3,"Olsen, Mr. Henry Margido",male,28,0,0,C 4001,$22.5,General,S,1
+510,Live,3,"Lang, Mr. Fang",male,26,0,0,1601,$56.5,General,S,1
+511,Live,3,"Daly, Mr. Eugene Patrick",male,29,0,0,382651,$7.8,General,Q,1
+512,Dead,3,"Webber, Mr. James",male,30,0,0,SOTON/OQ 3101316,$8.1,General,S,1
+513,Live,1,"McGough, Mr. James Robert",male,36,0,0,PC 17473,$26.3,E25,S,1
+514,Live,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54,1,0,PC 17603,$59.4,General,C,2
+515,Dead,3,"Coleff, Mr. Satio",male,24,0,0,349209,$7.5,General,S,1
+516,Dead,1,"Walker, Mr. William Anderson",male,47,0,0,36967,$34.0,D46,S,1
+517,Live,2,"Lemore, Mrs. (Amelia Milley)",female,34,0,0,C.A. 34260,$10.5,F33,S,1
+518,Dead,3,"Ryan, Mr. Patrick",male,30,0,0,371110,$24.2,General,Q,1
+519,Live,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36,1,0,226875,$26.0,General,S,2
+520,Dead,3,"Pavlovic, Mr. Stefo",male,32,0,0,349242,$7.9,General,S,1
+521,Live,1,"Perreault, Miss. Anne",female,30,0,0,12749,$93.5,B73,S,1
+522,Dead,3,"Vovk, Mr. Janko",male,22,0,0,349252,$7.9,General,S,1
+523,Dead,3,"Lahoud, Mr. Sarkis",male,30,0,0,2624,$7.2,General,C,1
+524,Live,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44,0,1,111361,$58.0,B18,C,2
+525,Dead,3,"Kassem, Mr. Fared",male,30,0,0,2700,$7.2,General,C,1
+526,Dead,3,"Farrell, Mr. James",male,41,0,0,367232,$7.8,General,Q,1
+527,Live,2,"Ridsdale, Miss. Lucy",female,50,0,0,W./C. 14258,$10.5,General,S,1
+528,Dead,1,"Farthing, Mr. John",male,30,0,0,PC 17483,$221.8,C95,S,1
+529,Dead,3,"Salonen, Mr. Johan Werner",male,39,0,0,3101296,$7.9,General,S,1
+530,Dead,2,"Hocking, Mr. Richard George",male,23,2,1,29104,$11.5,General,S,4
+531,Live,2,"Quick, Miss. Phyllis May",female,2,1,1,26360,$26.0,General,S,3
+532,Dead,3,"Toufik, Mr. Nakli",male,30,0,0,2641,$7.2,General,C,1
+533,Dead,3,"Elias, Mr. Joseph Jr",male,17,1,1,2690,$7.2,General,C,3
+534,Live,3,"Peter, Mrs. Catherine (Catherine Rizk)",female,30,0,2,2668,$22.4,General,C,3
+535,Dead,3,"Cacic, Miss. Marija",female,30,0,0,315084,$8.7,General,S,1
+536,Live,2,"Hart, Miss. Eva Miriam",female,7,0,2,F.C.C. 13529,$26.3,General,S,3
+537,Dead,1,"Butt, Major. Archibald Willingham",male,45,0,0,113050,$26.6,B38,S,1
+538,Live,1,"LeRoy, Miss. Bertha",female,30,0,0,PC 17761,$106.4,General,C,1
+539,Dead,3,"Risien, Mr. Samuel Beard",male,30,0,0,364498,$14.5,General,S,1
+540,Live,1,"Frolicher, Miss. Hedwig Margaritha",female,22,0,2,13568,$49.5,B39,C,3
+541,Live,1,"Crosby, Miss. Harriet R",female,36,0,2,WE/P 5735,$71.0,B22,S,3
+542,Dead,3,"Andersson, Miss. Ingeborg Constanzia",female,9,4,2,347082,$31.3,General,S,7
+543,Dead,3,"Andersson, Miss. Sigrid Elisabeth",female,11,4,2,347082,$31.3,General,S,7
+544,Live,2,"Beane, Mr. Edward",male,32,1,0,2908,$26.0,General,S,2
+545,Dead,1,"Douglas, Mr. Walter Donald",male,50,1,0,PC 17761,$106.4,C86,C,2
+546,Dead,1,"Nicholson, Mr. Arthur Ernest",male,64,0,0,693,$26.0,General,S,1
+547,Live,2,"Beane, Mrs. Edward (Ethel Clarke)",female,19,1,0,2908,$26.0,General,S,2
+548,Live,2,"Padro y Manent, Mr. Julian",male,30,0,0,SC/PARIS 2146,$13.9,General,C,1
+549,Dead,3,"Goldsmith, Mr. Frank John",male,33,1,1,363291,$20.5,General,S,3
+550,Live,2,"Davies, Master. John Morgan Jr",male,8,1,1,C.A. 33112,$36.8,General,S,3
+551,Live,1,"Thayer, Mr. John Borland Jr",male,17,0,2,17421,$110.9,C70,C,3
+552,Dead,2,"Sharp, Mr. Percival James R",male,27,0,0,244358,$26.0,General,S,1
+553,Dead,3,"O'Brien, Mr. Timothy",male,30,0,0,330979,$7.8,General,Q,1
+554,Live,3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22,0,0,2620,$7.2,General,C,1
+555,Live,3,"Ohman, Miss. Velin",female,22,0,0,347085,$7.8,General,S,1
+556,Dead,1,"Wright, Mr. George",male,62,0,0,113807,$26.6,General,S,1
+557,Live,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48,1,0,11755,$39.6,A16,C,2
+558,Dead,1,"Robbins, Mr. Victor",male,30,0,0,PC 17757,$227.5,General,C,1
+559,Live,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39,1,1,110413,$79.7,E67,S,3
+560,Live,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36,1,0,345572,$17.4,General,S,2
+561,Dead,3,"Morrow, Mr. Thomas Rowan",male,30,0,0,372622,$7.8,General,Q,1
+562,Dead,3,"Sivic, Mr. Husein",male,40,0,0,349251,$7.9,General,S,1
+563,Dead,2,"Norman, Mr. Robert Douglas",male,28,0,0,218629,$13.5,General,S,1
+564,Dead,3,"Simmons, Mr. John",male,30,0,0,SOTON/OQ 392082,$8.1,General,S,1
+565,Dead,3,"Meanwell, Miss. (Marion Ogden)",female,30,0,0,SOTON/O.Q. 392087,$8.1,General,S,1
+566,Dead,3,"Davies, Mr. Alfred J",male,24,2,0,A/4 48871,$24.2,General,S,3
+567,Dead,3,"Stoytcheff, Mr. Ilia",male,19,0,0,349205,$7.9,General,S,1
+568,Dead,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29,0,4,349909,$21.1,General,S,5
+569,Dead,3,"Doharr, Mr. Tannous",male,30,0,0,2686,$7.2,General,C,1
+570,Live,3,"Jonsson, Mr. Carl",male,32,0,0,350417,$7.9,General,S,1
+571,Live,2,"Harris, Mr. George",male,62,0,0,S.W./PP 752,$10.5,General,S,1
+572,Live,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53,2,0,11769,$51.5,C101,S,3
+573,Live,1,"Flynn, Mr. John Irwin (""Irving"")",male,36,0,0,PC 17474,$26.4,E25,S,1
+574,Live,3,"Kelly, Miss. Mary",female,30,0,0,14312,$7.8,General,Q,1
+575,Dead,3,"Rush, Mr. Alfred George John",male,16,0,0,A/4. 20589,$8.1,General,S,1
+576,Dead,3,"Patchett, Mr. George",male,19,0,0,358585,$14.5,General,S,1
+577,Live,2,"Garside, Miss. Ethel",female,34,0,0,243880,$13.0,General,S,1
+578,Live,1,"Silvey, Mrs. William Baird (Alice Munger)",female,39,1,0,13507,$55.9,E44,S,2
+579,Dead,3,"Caram, Mrs. Joseph (Maria Elias)",female,30,1,0,2689,$14.5,General,C,2
+580,Live,3,"Jussila, Mr. Eiriik",male,32,0,0,STON/O 2. 3101286,$7.9,General,S,1
+581,Live,2,"Christy, Miss. Julie Rachel",female,25,1,1,237789,$30.0,General,S,3
+582,Live,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39,1,1,17421,$110.9,C68,C,3
+583,Dead,2,"Downton, Mr. William James",male,54,0,0,28403,$26.0,General,S,1
+584,Dead,1,"Ross, Mr. John Hugo",male,36,0,0,13049,$40.1,A10,C,1
+585,Dead,3,"Paulner, Mr. Uscher",male,30,0,0,3411,$8.7,General,C,1
+586,Live,1,"Taussig, Miss. Ruth",female,18,0,2,110413,$79.7,E68,S,3
+587,Dead,2,"Jarvis, Mr. John Denzil",male,47,0,0,237565,$15.0,General,S,1
+588,Live,1,"Frolicher-Stehli, Mr. Maxmillian",male,60,1,1,13567,$79.2,B41,C,3
+589,Dead,3,"Gilinski, Mr. Eliezer",male,22,0,0,14973,$8.1,General,S,1
+590,Dead,3,"Murdlin, Mr. Joseph",male,30,0,0,A./5. 3235,$8.1,General,S,1
+591,Dead,3,"Rintamaki, Mr. Matti",male,35,0,0,STON/O 2. 3101273,$7.1,General,S,1
+592,Live,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52,1,0,36947,$78.3,D20,C,2
+593,Dead,3,"Elsbury, Mr. William James",male,47,0,0,A/5 3902,$7.3,General,S,1
+594,Dead,3,"Bourke, Miss. Mary",female,30,0,2,364848,$7.8,General,Q,3
+595,Dead,2,"Chapman, Mr. John Henry",male,37,1,0,SC/AH 29037,$26.0,General,S,2
+596,Dead,3,"Van Impe, Mr. Jean Baptiste",male,36,1,1,345773,$24.2,General,S,3
+597,Live,2,"Leitch, Miss. Jessie Wills",female,30,0,0,248727,$33.0,General,S,1
+598,Dead,3,"Johnson, Mr. Alfred",male,49,0,0,LINE,$0.0,General,S,1
+599,Dead,3,"Boulos, Mr. Hanna",male,30,0,0,2664,$7.2,General,C,1
+600,Live,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49,1,0,PC 17485,$56.9,A20,C,2
+601,Live,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24,2,1,243847,$27.0,General,S,4
+602,Dead,3,"Slabenoff, Mr. Petco",male,30,0,0,349214,$7.9,General,S,1
+603,Dead,1,"Harrington, Mr. Charles H",male,30,0,0,113796,$42.4,General,S,1
+604,Dead,3,"Torber, Mr. Ernst William",male,44,0,0,364511,$8.1,General,S,1
+605,Live,1,"Homer, Mr. Harry (""Mr E Haven"")",male,35,0,0,111426,$26.6,General,C,1
+606,Dead,3,"Lindell, Mr. Edvard Bengtsson",male,36,1,0,349910,$15.6,General,S,2
+607,Dead,3,"Karaic, Mr. Milan",male,30,0,0,349246,$7.9,General,S,1
+608,Live,1,"Daniel, Mr. Robert Williams",male,27,0,0,113804,$30.5,General,S,1
+609,Live,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22,1,2,SC/Paris 2123,$41.6,General,C,4
+610,Live,1,"Shutes, Miss. Elizabeth W",female,40,0,0,PC 17582,$153.5,C125,S,1
+611,Dead,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39,1,5,347082,$31.3,General,S,7
+612,Dead,3,"Jardin, Mr. Jose Neto",male,30,0,0,SOTON/O.Q. 3101305,$7.1,General,S,1
+613,Live,3,"Murphy, Miss. Margaret Jane",female,30,1,0,367230,$15.5,General,Q,2
+614,Dead,3,"Horgan, Mr. John",male,30,0,0,370377,$7.8,General,Q,1
+615,Dead,3,"Brocklebank, Mr. William Alfred",male,35,0,0,364512,$8.1,General,S,1
+616,Live,2,"Herman, Miss. Alice",female,24,1,2,220845,$65.0,General,S,4
+617,Dead,3,"Danbom, Mr. Ernst Gilbert",male,34,1,1,347080,$14.4,General,S,3
+618,Dead,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26,1,0,A/5. 3336,$16.1,General,S,2
+619,Live,2,"Becker, Miss. Marion Louise",female,4,2,1,230136,$39.0,F4,S,4
+620,Dead,2,"Gavey, Mr. Lawrence",male,26,0,0,31028,$10.5,General,S,1
+621,Dead,3,"Yasbeck, Mr. Antoni",male,27,1,0,2659,$14.5,General,C,2
+622,Live,1,"Kimball, Mr. Edwin Nelson Jr",male,42,1,0,11753,$52.6,D19,S,2
+623,Live,3,"Nakid, Mr. Sahid",male,20,1,1,2653,$15.7,General,C,3
+624,Dead,3,"Hansen, Mr. Henry Damsgaard",male,21,0,0,350029,$7.9,General,S,1
+625,Dead,3,"Bowen, Mr. David John ""Dai""",male,21,0,0,54636,$16.1,General,S,1
+626,Dead,1,"Sutton, Mr. Frederick",male,61,0,0,36963,$32.3,D50,S,1
+627,Dead,2,"Kirkland, Rev. Charles Leonard",male,57,0,0,219533,$12.4,General,Q,1
+628,Live,1,"Longley, Miss. Gretchen Fiske",female,21,0,0,13502,$78.0,D9,S,1
+629,Dead,3,"Bostandyeff, Mr. Guentcho",male,26,0,0,349224,$7.9,General,S,1
+630,Dead,3,"O'Connell, Mr. Patrick D",male,30,0,0,334912,$7.7,General,Q,1
+631,Live,1,"Barkworth, Mr. Algernon Henry Wilson",male,80,0,0,27042,$30.0,A23,S,1
+632,Dead,3,"Lundahl, Mr. Johan Svensson",male,51,0,0,347743,$7.1,General,S,1
+633,Live,1,"Stahelin-Maeglin, Dr. Max",male,32,0,0,13214,$30.5,B50,C,1
+634,Dead,1,"Parr, Mr. William Henry Marsh",male,30,0,0,112052,$0.0,General,S,1
+635,Dead,3,"Skoog, Miss. Mabel",female,9,3,2,347088,$27.9,General,S,6
+636,Live,2,"Davis, Miss. Mary",female,28,0,0,237668,$13.0,General,S,1
+637,Dead,3,"Leinonen, Mr. Antti Gustaf",male,32,0,0,STON/O 2. 3101292,$7.9,General,S,1
+638,Dead,2,"Collyer, Mr. Harvey",male,31,1,1,C.A. 31921,$26.3,General,S,3
+639,Dead,3,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41,0,5,3101295,$39.7,General,S,6
+640,Dead,3,"Thorneycroft, Mr. Percival",male,30,1,0,376564,$16.1,General,S,2
+641,Dead,3,"Jensen, Mr. Hans Peder",male,20,0,0,350050,$7.9,General,S,1
+642,Live,1,"Sagesser, Mlle. Emma",female,24,0,0,PC 17477,$69.3,B35,C,1
+643,Dead,3,"Skoog, Miss. Margit Elizabeth",female,2,3,2,347088,$27.9,General,S,6
+644,Live,3,"Foo, Mr. Choong",male,30,0,0,1601,$56.5,General,S,1
+645,Live,3,"Baclini, Miss. Eugenie",female,75,2,1,2666,$19.3,General,C,4
+646,Live,1,"Harper, Mr. Henry Sleeper",male,48,1,0,PC 17572,$76.7,D33,C,2
+647,Dead,3,"Cor, Mr. Liudevit",male,19,0,0,349231,$7.9,General,S,1
+648,Live,1,"Simonius-Blumer, Col. Oberst Alfons",male,56,0,0,13213,$35.5,A26,C,1
+649,Dead,3,"Willey, Mr. Edward",male,30,0,0,S.O./P.P. 751,$7.6,General,S,1
+650,Live,3,"Stanley, Miss. Amy Zillah Elsie",female,23,0,0,CA. 2314,$7.6,General,S,1
+651,Dead,3,"Mitkoff, Mr. Mito",male,30,0,0,349221,$7.9,General,S,1
+652,Live,2,"Doling, Miss. Elsie",female,18,0,1,231919,$23.0,General,S,2
+653,Dead,3,"Kalvik, Mr. Johannes Halvorsen",male,21,0,0,8475,$8.4,General,S,1
+654,Live,3,"O'Leary, Miss. Hanora ""Norah""",female,30,0,0,330919,$7.8,General,Q,1
+655,Dead,3,"Hegarty, Miss. Hanora ""Nora""",female,18,0,0,365226,$6.8,General,Q,1
+656,Dead,2,"Hickman, Mr. Leonard Mark",male,24,2,0,S.O.C. 14879,$73.5,General,S,3
+657,Dead,3,"Radeff, Mr. Alexander",male,30,0,0,349223,$7.9,General,S,1
+658,Dead,3,"Bourke, Mrs. John (Catherine)",female,32,1,1,364849,$15.5,General,Q,3
+659,Dead,2,"Eitemiller, Mr. George Floyd",male,23,0,0,29751,$13.0,General,S,1
+660,Dead,1,"Newell, Mr. Arthur Webster",male,58,0,2,35273,$113.3,D48,C,3
+661,Live,1,"Frauenthal, Dr. Henry William",male,50,2,0,PC 17611,$133.7,General,S,3
+662,Dead,3,"Badt, Mr. Mohamed",male,40,0,0,2623,$7.2,General,C,1
+663,Dead,1,"Colley, Mr. Edward Pomeroy",male,47,0,0,5727,$25.6,E58,S,1
+664,Dead,3,"Coleff, Mr. Peju",male,36,0,0,349210,$7.5,General,S,1
+665,Live,3,"Lindqvist, Mr. Eino William",male,20,1,0,STON/O 2. 3101285,$7.9,General,S,2
+666,Dead,2,"Hickman, Mr. Lewis",male,32,2,0,S.O.C. 14879,$73.5,General,S,3
+667,Dead,2,"Butler, Mr. Reginald Fenton",male,25,0,0,234686,$13.0,General,S,1
+668,Dead,3,"Rommetvedt, Mr. Knud Paust",male,30,0,0,312993,$7.8,General,S,1
+669,Dead,3,"Cook, Mr. Jacob",male,43,0,0,A/5 3536,$8.1,General,S,1
+670,Live,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,30,1,0,19996,$52.0,C126,S,2
+671,Live,2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40,1,1,29750,$39.0,General,S,3
+672,Dead,1,"Davidson, Mr. Thornton",male,31,1,0,F.C. 12750,$52.0,B71,S,2
+673,Dead,2,"Mitchell, Mr. Henry Michael",male,70,0,0,C.A. 24580,$10.5,General,S,1
+674,Live,2,"Wilhelms, Mr. Charles",male,31,0,0,244270,$13.0,General,S,1
+675,Dead,2,"Watson, Mr. Ennis Hastings",male,30,0,0,239856,$0.0,General,S,1
+676,Dead,3,"Edvardsson, Mr. Gustaf Hjalmar",male,18,0,0,349912,$7.8,General,S,1
+677,Dead,3,"Sawyer, Mr. Frederick Charles",male,25,0,0,342826,$8.1,General,S,1
+678,Live,3,"Turja, Miss. Anna Sofia",female,18,0,0,4138,$9.8,General,S,1
+679,Dead,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43,1,6,CA 2144,$46.9,General,S,8
+680,Live,1,"Cardeza, Mr. Thomas Drake Martinez",male,36,0,1,PC 17755,$512.3,B51 B53 B55,C,2
+681,Dead,3,"Peters, Miss. Katie",female,30,0,0,330935,$8.1,General,Q,1
+682,Live,1,"Hassab, Mr. Hammad",male,27,0,0,PC 17572,$76.7,D49,C,1
+683,Dead,3,"Olsvigen, Mr. Thor Anderson",male,20,0,0,6563,$9.2,General,S,1
+684,Dead,3,"Goodwin, Mr. Charles Edward",male,14,5,2,CA 2144,$46.9,General,S,8
+685,Dead,2,"Brown, Mr. Thomas William Solomon",male,60,1,1,29750,$39.0,General,S,3
+686,Dead,2,"Laroche, Mr. Joseph Philippe Lemercier",male,25,1,2,SC/Paris 2123,$41.6,General,C,4
+687,Dead,3,"Panula, Mr. Jaako Arnold",male,14,4,1,3101295,$39.7,General,S,6
+688,Dead,3,"Dakic, Mr. Branko",male,19,0,0,349228,$10.2,General,S,1
+689,Dead,3,"Fischer, Mr. Eberhard Thelander",male,18,0,0,350036,$7.8,General,S,1
+690,Live,1,"Madill, Miss. Georgette Alexandra",female,15,0,1,24160,$211.3,B5,S,2
+691,Live,1,"Dick, Mr. Albert Adrian",male,31,1,0,17474,$57.0,B20,S,2
+692,Live,3,"Karun, Miss. Manca",female,4,0,1,349256,$13.4,General,C,2
+693,Live,3,"Lam, Mr. Ali",male,30,0,0,1601,$56.5,General,S,1
+694,Dead,3,"Saad, Mr. Khalil",male,25,0,0,2672,$7.2,General,C,1
+695,Dead,1,"Weir, Col. John",male,60,0,0,113800,$26.6,General,S,1
+696,Dead,2,"Chapman, Mr. Charles Henry",male,52,0,0,248731,$13.5,General,S,1
+697,Dead,3,"Kelly, Mr. James",male,44,0,0,363592,$8.1,General,S,1
+698,Live,3,"Mullens, Miss. Katherine ""Katie""",female,30,0,0,35852,$7.7,General,Q,1
+699,Dead,1,"Thayer, Mr. John Borland",male,49,1,1,17421,$110.9,C68,C,3
+700,Dead,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42,0,0,348121,$7.7,F G63,S,1
+701,Live,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18,1,0,PC 17757,$227.5,C62 C64,C,2
+702,Live,1,"Silverthorne, Mr. Spencer Victor",male,35,0,0,PC 17475,$26.3,E24,S,1
+703,Dead,3,"Barbara, Miss. Saiide",female,18,0,1,2691,$14.5,General,C,2
+704,Dead,3,"Gallagher, Mr. Martin",male,25,0,0,36864,$7.7,General,Q,1
+705,Dead,3,"Hansen, Mr. Henrik Juul",male,26,1,0,350025,$7.9,General,S,2
+706,Dead,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39,0,0,250655,$26.0,General,S,1
+707,Live,2,"Kelly, Mrs. Florence ""Fannie""",female,45,0,0,223596,$13.5,General,S,1
+708,Live,1,"Calderhead, Mr. Edward Pennington",male,42,0,0,PC 17476,$26.3,E24,S,1
+709,Live,1,"Cleaver, Miss. Alice",female,22,0,0,113781,$151.6,General,S,1
+710,Live,3,"Moubarek, Master. Halim Gonios (""William George"")",male,30,1,1,2661,$15.2,General,C,3
+711,Live,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24,0,0,PC 17482,$49.5,C90,C,1
+712,Dead,1,"Klaber, Mr. Herman",male,30,0,0,113028,$26.6,C124,S,1
+713,Live,1,"Taylor, Mr. Elmer Zebley",male,48,1,0,19996,$52.0,C126,S,2
+714,Dead,3,"Larsson, Mr. August Viktor",male,29,0,0,7545,$9.5,General,S,1
+715,Dead,2,"Greenberg, Mr. Samuel",male,52,0,0,250647,$13.0,General,S,1
+716,Dead,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19,0,0,348124,$7.7,F G73,S,1
+717,Live,1,"Endres, Miss. Caroline Louise",female,38,0,0,PC 17757,$227.5,C45,C,1
+718,Live,2,"Troutt, Miss. Edwina Celia ""Winnie""",female,27,0,0,34218,$10.5,E101,S,1
+719,Dead,3,"McEvoy, Mr. Michael",male,30,0,0,36568,$15.5,General,Q,1
+720,Dead,3,"Johnson, Mr. Malkolm Joackim",male,33,0,0,347062,$7.8,General,S,1
+721,Live,2,"Harper, Miss. Annie Jessie ""Nina""",female,6,0,1,248727,$33.0,General,S,2
+722,Dead,3,"Jensen, Mr. Svend Lauritz",male,17,1,0,350048,$7.1,General,S,2
+723,Dead,2,"Gillespie, Mr. William Henry",male,34,0,0,12233,$13.0,General,S,1
+724,Dead,2,"Hodges, Mr. Henry Price",male,50,0,0,250643,$13.0,General,S,1
+725,Live,1,"Chambers, Mr. Norman Campbell",male,27,1,0,113806,$53.1,E8,S,2
+726,Dead,3,"Oreskovic, Mr. Luka",male,20,0,0,315094,$8.7,General,S,1
+727,Live,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30,3,0,31027,$21.0,General,S,4
+728,Live,3,"Mannion, Miss. Margareth",female,30,0,0,36866,$7.7,General,Q,1
+729,Dead,2,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25,1,0,236853,$26.0,General,S,2
+730,Dead,3,"Ilmakangas, Miss. Pieta Sofia",female,25,1,0,STON/O2. 3101271,$7.9,General,S,2
+731,Live,1,"Allen, Miss. Elisabeth Walton",female,29,0,0,24160,$211.3,B5,S,1
+732,Dead,3,"Hassan, Mr. Houssein G N",male,11,0,0,2699,$18.8,General,C,1
+733,Dead,2,"Knight, Mr. Robert J",male,30,0,0,239855,$0.0,General,S,1
+734,Dead,2,"Berriman, Mr. William John",male,23,0,0,28425,$13.0,General,S,1
+735,Dead,2,"Troupiansky, Mr. Moses Aaron",male,23,0,0,233639,$13.0,General,S,1
+736,Dead,3,"Williams, Mr. Leslie",male,29,0,0,54636,$16.1,General,S,1
+737,Dead,3,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48,1,3,W./C. 6608,$34.4,General,S,5
+738,Live,1,"Lesurer, Mr. Gustave J",male,35,0,0,PC 17755,$512.3,B101,C,1
+739,Dead,3,"Ivanoff, Mr. Kanio",male,30,0,0,349201,$7.9,General,S,1
+740,Dead,3,"Nankoff, Mr. Minko",male,30,0,0,349218,$7.9,General,S,1
+741,Live,1,"Hawksford, Mr. Walter James",male,30,0,0,16988,$30.0,D45,S,1
+742,Dead,1,"Cavendish, Mr. Tyrell William",male,36,1,0,19877,$78.9,C46,S,2
+743,Live,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21,2,2,PC 17608,$262.4,B57 B59 B63 B66,C,5
+744,Dead,3,"McNamee, Mr. Neal",male,24,1,0,376566,$16.1,General,S,2
+745,Live,3,"Stranden, Mr. Juho",male,31,0,0,STON/O 2. 3101288,$7.9,General,S,1
+746,Dead,1,"Crosby, Capt. Edward Gifford",male,70,1,1,WE/P 5735,$71.0,B22,S,3
+747,Dead,3,"Abbott, Mr. Rossmore Edward",male,16,1,1,C.A. 2673,$20.3,General,S,3
+748,Live,2,"Sinkkonen, Miss. Anna",female,30,0,0,250648,$13.0,General,S,1
+749,Dead,1,"Marvin, Mr. Daniel Warner",male,19,1,0,113773,$53.1,D30,S,2
+750,Dead,3,"Connaghton, Mr. Michael",male,31,0,0,335097,$7.8,General,Q,1
+751,Live,2,"Wells, Miss. Joan",female,4,1,1,29103,$23.0,General,S,3
+752,Live,3,"Moor, Master. Meier",male,6,0,1,392096,$12.5,E121,S,2
+753,Dead,3,"Vande Velde, Mr. Johannes Joseph",male,33,0,0,345780,$9.5,General,S,1
+754,Dead,3,"Jonkoff, Mr. Lalio",male,23,0,0,349204,$7.9,General,S,1
+755,Live,2,"Herman, Mrs. Samuel (Jane Laver)",female,48,1,2,220845,$65.0,General,S,4
+756,Live,2,"Hamalainen, Master. Viljo",male,67,1,1,250649,$14.5,General,S,3
+757,Dead,3,"Carlsson, Mr. August Sigfrid",male,28,0,0,350042,$7.8,General,S,1
+758,Dead,2,"Bailey, Mr. Percy Andrew",male,18,0,0,29108,$11.5,General,S,1
+759,Dead,3,"Theobald, Mr. Thomas Leonard",male,34,0,0,363294,$8.1,General,S,1
+760,Live,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33,0,0,110152,$86.5,B77,S,1
+761,Dead,3,"Garfirth, Mr. John",male,30,0,0,358585,$14.5,General,S,1
+762,Dead,3,"Nirva, Mr. Iisakki Antino Aijo",male,41,0,0,SOTON/O2 3101272,$7.1,General,S,1
+763,Live,3,"Barah, Mr. Hanna Assi",male,20,0,0,2663,$7.2,General,C,1
+764,Live,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36,1,2,113760,$120.0,B96 B98,S,4
+765,Dead,3,"Eklund, Mr. Hans Linus",male,16,0,0,347074,$7.8,General,S,1
+766,Live,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51,1,0,13502,$78.0,D11,S,2
+767,Dead,1,"Brewe, Dr. Arthur Jackson",male,30,0,0,112379,$39.6,General,C,1
+768,Dead,3,"Mangan, Miss. Mary",female,31,0,0,364850,$7.8,General,Q,1
+769,Dead,3,"Moran, Mr. Daniel J",male,30,1,0,371110,$24.2,General,Q,2
+770,Dead,3,"Gronnestad, Mr. Daniel Danielsen",male,32,0,0,8471,$8.4,General,S,1
+771,Dead,3,"Lievens, Mr. Rene Aime",male,24,0,0,345781,$9.5,General,S,1
+772,Dead,3,"Jensen, Mr. Niels Peder",male,48,0,0,350047,$7.9,General,S,1
+773,Dead,2,"Mack, Mrs. (Mary)",female,57,0,0,S.O./P.P. 3,$10.5,E77,S,1
+774,Dead,3,"Elias, Mr. Dibo",male,30,0,0,2674,$7.2,General,C,1
+775,Live,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54,1,3,29105,$23.0,General,S,5
+776,Dead,3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18,0,0,347078,$7.8,General,S,1
+777,Dead,3,"Tobin, Mr. Roger",male,30,0,0,383121,$7.8,F38,Q,1
+778,Live,3,"Emanuel, Miss. Virginia Ethel",female,5,0,0,364516,$12.5,General,S,1
+779,Dead,3,"Kilgannon, Mr. Thomas J",male,30,0,0,36865,$7.7,General,Q,1
+780,Live,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43,0,1,24160,$211.3,B3,S,2
+781,Live,3,"Ayoub, Miss. Banoura",female,13,0,0,2687,$7.2,General,C,1
+782,Live,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17,1,0,17474,$57.0,B20,S,2
+783,Dead,1,"Long, Mr. Milton Clyde",male,29,0,0,113501,$30.0,D6,S,1
+784,Dead,3,"Johnston, Mr. Andrew G",male,30,1,2,W./C. 6607,$23.5,General,S,4
+785,Dead,3,"Ali, Mr. William",male,25,0,0,SOTON/O.Q. 3101312,$7.1,General,S,1
+786,Dead,3,"Harmer, Mr. Abraham (David Lishin)",male,25,0,0,374887,$7.3,General,S,1
+787,Live,3,"Sjoblom, Miss. Anna Sofia",female,18,0,0,3101265,$7.5,General,S,1
+788,Dead,3,"Rice, Master. George Hugh",male,8,4,1,382652,$29.1,General,Q,6
+789,Live,3,"Dean, Master. Bertram Vere",male,1,1,2,C.A. 2315,$20.6,General,S,4
+790,Dead,1,"Guggenheim, Mr. Benjamin",male,46,0,0,PC 17593,$79.2,B82 B84,C,1
+791,Dead,3,"Keane, Mr. Andrew ""Andy""",male,30,0,0,12460,$7.8,General,Q,1
+792,Dead,2,"Gaskell, Mr. Alfred",male,16,0,0,239865,$26.0,General,S,1
+793,Dead,3,"Sage, Miss. Stella Anna",female,30,8,2,CA. 2343,$69.6,General,S,11
+794,Dead,1,"Hoyt, Mr. William Fisher",male,30,0,0,PC 17600,$30.7,General,C,1
+795,Dead,3,"Dantcheff, Mr. Ristiu",male,25,0,0,349203,$7.9,General,S,1
+796,Dead,2,"Otter, Mr. Richard",male,39,0,0,28213,$13.0,General,S,1
+797,Live,1,"Leader, Dr. Alice (Farnham)",female,49,0,0,17465,$25.9,D17,S,1
+798,Live,3,"Osman, Mrs. Mara",female,31,0,0,349244,$8.7,General,S,1
+799,Dead,3,"Ibrahim Shawah, Mr. Yousseff",male,30,0,0,2685,$7.2,General,C,1
+800,Dead,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30,1,1,345773,$24.2,General,S,3
+801,Dead,2,"Ponesell, Mr. Martin",male,34,0,0,250647,$13.0,General,S,1
+802,Live,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31,1,1,C.A. 31921,$26.3,General,S,3
+803,Live,1,"Carter, Master. William Thornton II",male,11,1,2,113760,$120.0,B96 B98,S,4
+804,Live,3,"Thomas, Master. Assad Alexander",male,42,0,1,2625,$8.5,General,C,2
+805,Live,3,"Hedman, Mr. Oskar Arvid",male,27,0,0,347089,$7.0,General,S,1
+806,Dead,3,"Johansson, Mr. Karl Johan",male,31,0,0,347063,$7.8,General,S,1
+807,Dead,1,"Andrews, Mr. Thomas Jr",male,39,0,0,112050,$0.0,A36,S,1
+808,Dead,3,"Pettersson, Miss. Ellen Natalia",female,18,0,0,347087,$7.8,General,S,1
+809,Dead,2,"Meyer, Mr. August",male,39,0,0,248723,$13.0,General,S,1
+810,Live,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33,1,0,113806,$53.1,E8,S,2
+811,Dead,3,"Alexander, Mr. William",male,26,0,0,3474,$7.9,General,S,1
+812,Dead,3,"Lester, Mr. James",male,39,0,0,A/4 48871,$24.2,General,S,1
+813,Dead,2,"Slemen, Mr. Richard James",male,35,0,0,28206,$10.5,General,S,1
+814,Dead,3,"Andersson, Miss. Ebba Iris Alfrida",female,6,4,2,347082,$31.3,General,S,7
+815,Dead,3,"Tomlin, Mr. Ernest Portage",male,31,0,0,364499,$8.1,General,S,1
+816,Dead,1,"Fry, Mr. Richard",male,30,0,0,112058,$0.0,B102,S,1
+817,Dead,3,"Heininen, Miss. Wendla Maria",female,23,0,0,STON/O2. 3101290,$7.9,General,S,1
+818,Dead,2,"Mallet, Mr. Albert",male,31,1,1,S.C./PARIS 2079,$37.0,General,C,3
+819,Dead,3,"Holm, Mr. John Fredrik Alexander",male,43,0,0,C 7075,$6.5,General,S,1
+820,Dead,3,"Skoog, Master. Karl Thorsten",male,10,3,2,347088,$27.9,General,S,6
+821,Live,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52,1,1,12749,$93.5,B69,S,3
+822,Live,3,"Lulic, Mr. Nikola",male,27,0,0,315098,$8.7,General,S,1
+823,Dead,1,"Reuchlin, Jonkheer. John George",male,38,0,0,19972,$0.0,General,S,1
+824,Live,3,"Moor, Mrs. (Beila)",female,27,0,1,392096,$12.5,E121,S,2
+825,Dead,3,"Panula, Master. Urho Abraham",male,2,4,1,3101295,$39.7,General,S,6
+826,Dead,3,"Flynn, Mr. John",male,30,0,0,368323,$7.0,General,Q,1
+827,Dead,3,"Lam, Mr. Len",male,30,0,0,1601,$56.5,General,S,1
+828,Live,2,"Mallet, Master. Andre",male,1,0,2,S.C./PARIS 2079,$37.0,General,C,3
+829,Live,3,"McCormack, Mr. Thomas Joseph",male,30,0,0,367228,$7.8,General,Q,1
+830,Live,1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62,0,0,113572,$80.0,B28,S,1
+831,Live,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15,1,0,2659,$14.5,General,C,2
+832,Live,2,"Richards, Master. George Sibley",male,83,1,1,29106,$18.8,General,S,3
+833,Dead,3,"Saad, Mr. Amin",male,30,0,0,2671,$7.2,General,C,1
+834,Dead,3,"Augustsson, Mr. Albert",male,23,0,0,347468,$7.9,General,S,1
+835,Dead,3,"Allum, Mr. Owen George",male,18,0,0,2223,$8.3,General,S,1
+836,Live,1,"Compton, Miss. Sara Rebecca",female,39,1,1,PC 17756,$83.2,E49,C,3
+837,Dead,3,"Pasic, Mr. Jakob",male,21,0,0,315097,$8.7,General,S,1
+838,Dead,3,"Sirota, Mr. Maurice",male,30,0,0,392092,$8.1,General,S,1
+839,Live,3,"Chip, Mr. Chang",male,32,0,0,1601,$56.5,General,S,1
+840,Live,1,"Marechal, Mr. Pierre",male,30,0,0,11774,$29.7,C47,C,1
+841,Dead,3,"Alhomaki, Mr. Ilmari Rudolf",male,20,0,0,SOTON/O2 3101287,$7.9,General,S,1
+842,Dead,2,"Mudd, Mr. Thomas Charles",male,16,0,0,S.O./P.P. 3,$10.5,General,S,1
+843,Live,1,"Serepeca, Miss. Augusta",female,30,0,0,113798,$31.0,General,C,1
+844,Dead,3,"Lemberopolous, Mr. Peter L",male,35,0,0,2683,$6.4,General,C,1
+845,Dead,3,"Culumovic, Mr. Jeso",male,17,0,0,315090,$8.7,General,S,1
+846,Dead,3,"Abbing, Mr. Anthony",male,42,0,0,C.A. 5547,$7.6,General,S,1
+847,Dead,3,"Sage, Mr. Douglas Bullen",male,30,8,2,CA. 2343,$69.6,General,S,11
+848,Dead,3,"Markoff, Mr. Marin",male,35,0,0,349213,$7.9,General,C,1
+849,Dead,2,"Harper, Rev. John",male,28,0,1,248727,$33.0,General,S,2
+850,Live,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,30,1,0,17453,$89.1,C92,C,2
+851,Dead,3,"Andersson, Master. Sigvard Harald Elias",male,4,4,2,347082,$31.3,General,S,7
+852,Dead,3,"Svensson, Mr. Johan",male,74,0,0,347060,$7.8,General,S,1
+853,Dead,3,"Boulos, Miss. Nourelain",female,9,1,1,2678,$15.2,General,C,3
+854,Live,1,"Lines, Miss. Mary Conover",female,16,0,1,PC 17592,$39.4,D28,S,2
+855,Dead,2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44,1,0,244252,$26.0,General,S,2
+856,Live,3,"Aks, Mrs. Sam (Leah Rosen)",female,18,0,1,392091,$9.4,General,S,2
+857,Live,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45,1,1,36928,$164.9,General,S,3
+858,Live,1,"Daly, Mr. Peter Denis ",male,51,0,0,113055,$26.6,E17,S,1
+859,Live,3,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24,0,3,2666,$19.3,General,C,4
+860,Dead,3,"Razi, Mr. Raihed",male,30,0,0,2629,$7.2,General,C,1
+861,Dead,3,"Hansen, Mr. Claus Peter",male,41,2,0,350026,$14.1,General,S,3
+862,Dead,2,"Giles, Mr. Frederick Edward",male,21,1,0,28134,$11.5,General,S,2
+863,Live,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48,0,0,17466,$25.9,D17,S,1
+864,Dead,3,"Sage, Miss. Dorothy Edith ""Dolly""",female,30,8,2,CA. 2343,$69.6,General,S,11
+865,Dead,2,"Gill, Mr. John William",male,24,0,0,233866,$13.0,General,S,1
+866,Live,2,"Bystrom, Mrs. (Karolina)",female,42,0,0,236852,$13.0,General,S,1
+867,Live,2,"Duran y More, Miss. Asuncion",female,27,1,0,SC/PARIS 2149,$13.9,General,C,2
+868,Dead,1,"Roebling, Mr. Washington Augustus II",male,31,0,0,PC 17590,$50.5,A24,S,1
+869,Dead,3,"van Melkebeke, Mr. Philemon",male,30,0,0,345777,$9.5,General,S,1
+870,Live,3,"Johnson, Master. Harold Theodor",male,4,1,1,347742,$11.1,General,S,3
+871,Dead,3,"Balkic, Mr. Cerin",male,26,0,0,349248,$7.9,General,S,1
+872,Live,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47,1,1,11751,$52.6,D35,S,3
+873,Dead,1,"Carlsson, Mr. Frans Olof",male,33,0,0,695,$5.0,B51 B53 B55,S,1
+874,Dead,3,"Vander Cruyssen, Mr. Victor",male,47,0,0,345765,$9.0,General,S,1
+875,Live,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28,1,0,P/PP 3381,$24.0,General,C,2
+876,Live,3,"Najib, Miss. Adele Kiamie ""Jane""",female,15,0,0,2667,$7.2,General,C,1
+877,Dead,3,"Gustafsson, Mr. Alfred Ossian",male,20,0,0,7534,$9.8,General,S,1
+878,Dead,3,"Petroff, Mr. Nedelio",male,19,0,0,349212,$7.9,General,S,1
+879,Dead,3,"Laleff, Mr. Kristo",male,30,0,0,349217,$7.9,General,S,1
+880,Live,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56,0,1,11767,$83.2,C50,C,2
+881,Live,2,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25,0,1,230433,$26.0,General,S,2
+882,Dead,3,"Markun, Mr. Johann",male,33,0,0,349257,$7.9,General,S,1
+883,Dead,3,"Dahlberg, Miss. Gerda Ulrika",female,22,0,0,7552,$10.5,General,S,1
+884,Dead,2,"Banfield, Mr. Frederick James",male,28,0,0,C.A./SOTON 34068,$10.5,General,S,1
+885,Dead,3,"Sutehall, Mr. Henry Jr",male,25,0,0,SOTON/OQ 392076,$7.1,General,S,1
+886,Dead,3,"Rice, Mrs. William (Margaret Norton)",female,39,0,5,382652,$29.1,General,Q,6
+887,Dead,2,"Montvila, Rev. Juozas",male,27,0,0,211536,$13.0,General,S,1
+888,Live,1,"Graham, Miss. Margaret Edith",female,19,0,0,112053,$30.0,B42,S,1
+889,Dead,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,30,1,2,W./C. 6607,$23.5,General,S,4
+890,Live,1,"Behr, Mr. Karl Howell",male,26,0,0,111369,$30.0,C148,C,1
+891,Dead,3,"Dooley, Mr. Patrick",male,32,0,0,370376,$7.8,General,Q,1
